@@ -22,4 +22,4 @@ I’m a **military officer** from Cyprus 🇨🇾 working in the **cybersecurity
 
 **Music** is a big part of my life. I’m a fan of rock in all its forms—alternative, classic, and everything in between. I record music covers, playing guitar, bass, drums, and keyboard, and share them on [YouTube](https://www.youtube.com/kallenosf).
 
-Although I’m a tech geek, I’m also passionate about sports. I’m a football fan (⚽, not 🏈) and enjoy playing tennis as well.
+Although I’m a tech geek, I’m also passionate about sports. I’m a **football** fan (⚽, not 🏈) and enjoy playing tennis as well.
