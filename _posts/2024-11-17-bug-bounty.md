@@ -12,6 +12,12 @@ toc:
 ---
 
 **TL;DR :** I found a race-condition bug in a popular greek e-commerce app, that allowed me to redeem the <u>same gift-card twice</u>.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/bug-bounty/race-conditions.png" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+
 
 ## Race conditions
 - Back in September 2023, Portswigger published [content](https://portswigger.net/web-security/race-conditions) in their web-security academy about race condition vulnerabilities, so I wanted to try it in the real world.
