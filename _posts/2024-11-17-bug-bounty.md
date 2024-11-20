@@ -6,7 +6,7 @@ description: I found a race-condition bug in a popular greek e-commerce app, tha
 tags: bug-bounty race-conditions
 categories: web
 giscus_comments: false
-related_posts: false
+related_posts: true
 toc:
   sidebar: left
 ---
