@@ -2,7 +2,7 @@
 layout: post
 title: Race Condition Bug in the Most Popular Greek E-Commerce App
 date: 2024-11-17 10:14:00-0400
-description: an example of a blog post with table of contents on a sidebar
+description: I found a race-condition bug in a popular greek e-commerce app, that allowed me to redeem the <u>same gift-card twice</u>
 tags: bug-bounty race-conditions
 categories: web
 giscus_comments: false
