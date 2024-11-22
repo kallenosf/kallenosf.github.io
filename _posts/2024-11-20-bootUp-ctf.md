@@ -29,7 +29,7 @@ toc:
 - Cyber Yankee took place over **two weeks**, with the first week dedicated to **training** and the second week focused on the **actual exercise**.
 
 ## BootUp CTF
-- During the first week, a CTF competition called `bootUp CTF`, organised by [SANS](https://www.sans.org/) where held. Any participant could join and play during their free time.
+- During the first week, a CTF competition called `bootUp CTF`, organised by [SANS](https://www.sans.org/) was held. Any participant could join and play during their free time.
 - My team finished second 🥈, but I **scored the most points** as an individual and was awarded a SANS coin.
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
