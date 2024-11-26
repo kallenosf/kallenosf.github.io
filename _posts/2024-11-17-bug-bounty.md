@@ -20,7 +20,7 @@ toc:
 
 
 ## Race conditions
-- Back in September 2023, Portswigger published [content](https://portswigger.net/web-security/race-conditions) in their web-security academy about race condition vulnerabilities, so I wanted to try it in the real world.
+- Back in October 2023, I was hunting bugs in a popular greek e-commerce app. Around that time, PortSwigger's Web Security Academy published new [content](https://portswigger.net/web-security/race-conditions?utm_source=chatgpt.com) on race condition vulnerabilities. This prompted me to explore the app for such issues.
 - <u>Race conditions</u> usually occurr when websites handle requests **in parallel without adequate safeguards**, leading to "collisions" that result in unintended behavior.
 - This type of vulnerability is similar to **business logic** flaws.
 - In a race condition attack, an attacker sends **carefully timed** requests to **intentionally create collisions** and exploit the resulting unintended behavior for malicious purposes.
@@ -104,7 +104,7 @@ toc:
     </div>
 </div>
 
-- The maximum amount for a gift card that can be purchased is **€150**, so an attacker could pay €150 and use it to buy **€300** worth of items.
+- The maximum amount for a gift card that can be purchased is **€150**, so an attacker could pay €150 and use it to buy **€300** worth of items—repeating this process an unlimited number of times.
 
 ### Reporting
 - This app has a bug bounty program in [BugCrowd](https://www.bugcrowd.com/), so I reported the issue there.
@@ -115,3 +115,5 @@ toc:
         {% include figure.liquid loading="eager" path="assets/img/bug-bounty/race-conditions9.png" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
+
+- This was my second finding in the same app, as I had previously discovered a **business logic vulnerability** that was classified as `P4`.

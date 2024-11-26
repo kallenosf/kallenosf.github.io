@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: My blog # blog_name will be displayed in your blog page
-blog_description: blog posts about cybersecurity or computer science in general
+blog_description: Blog posts about cybersecurity and computer science in general
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
