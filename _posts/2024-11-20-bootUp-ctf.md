@@ -8,6 +8,7 @@ categories: ctf
 giscus_comments: false
 related_posts: true
 thumbnail: assets/img/bootUp-ctf/IMG_3837.heic
+og_image: "https://kallenosf.github.io/assets/img/bootUp-ctf/IMG_3837.heic"
 toc:
   sidebar: left
 ---
