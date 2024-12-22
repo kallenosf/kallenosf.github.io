@@ -4,7 +4,7 @@ permalink: /blog/
 title: blog
 nav: true
 nav_order: 1
-og_image: assets/img/page_preview/blog.jpeg
+og_image: "https://raw.githubusercontent.com/kallenosf/kallenosf.github.io/refs/heads/main/assets/img/page_preview/blog.jpeg"
 pagination:
   enabled: true
   collection: posts
