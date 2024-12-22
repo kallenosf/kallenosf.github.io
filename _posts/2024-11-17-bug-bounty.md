@@ -8,6 +8,7 @@ categories: web
 giscus_comments: false
 related_posts: true
 thumbnail: assets/img/bug-bounty/race-conditions.png
+og_image: "https://raw.githubusercontent.com/kallenosf/kallenosf.github.io/refs/heads/main/assets/img/bug-bounty/race-conditions.png"
 toc:
   sidebar: left
 ---
