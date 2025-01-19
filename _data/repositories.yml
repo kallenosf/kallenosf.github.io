@@ -4,7 +4,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - kallenosf/minimal-debugger
   - kallenosf/Simplified-DES
   - kallenosf/CTF_Writeups
   - kallenosf/kallenosf.github.io
-  - kallenosf/minimal-debugger
+
